@@ -1,1 +1,1 @@
-# Data-Analityc-practicas
+# Data-Analitycs-practicas
